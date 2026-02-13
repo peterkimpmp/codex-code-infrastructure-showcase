@@ -14,6 +14,7 @@ Codex-first operating rules for this repository. This file replaces Claude hook-
 - Before frontend code edits, verify MUI version compatibility and avoid legacy v5/v6 API patterns.
 - Before major backend edits, enforce layered boundaries: route -> controller -> service -> repository.
 - Before finishing a task, run available project checks (at minimum `typecheck` and `build` if defined).
+- 코드 주석은 기본적으로 한글로 작성한다.
 
 ## Working Protocol
 1. Identify applicable skill(s) from trigger rules.
@@ -26,4 +27,3 @@ Codex-first operating rules for this repository. This file replaces Claude hook-
 - Planning: `templates/dev-docs.template.md`
 - Context update: `templates/dev-docs-update.template.md`
 - Route testing research: `templates/route-research-for-testing.template.md`
-

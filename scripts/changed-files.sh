@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Print changed file paths for the current git working tree.
-# Usage:
-#   scripts/changed-files.sh          # unstaged + staged
-#   scripts/changed-files.sh --staged # staged only
+# 현재 git 작업 트리에서 변경된 파일 경로를 출력한다.
+# 사용법:
+#   scripts/changed-files.sh          # 스테이징 전 + 스테이징 후 파일
+#   scripts/changed-files.sh --staged # 스테이징된 파일만
 
 mode="${1:-all}"
 

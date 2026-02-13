@@ -25,6 +25,13 @@ Codex 중심으로 재구성한 AI 코딩 인프라 레퍼런스 저장소입니
   - 운영 보조 스크립트
 
 ## Integration Docs
+- 활용 매뉴얼: `/Users/peterkim/SynologyDrive/OneDrive/Project/[Vibe Codding]/codex-code-infrastructure-showcase/USAGE_MANUAL.md`
+  - 시작 절차(첫 10분)
+  - 스킬/에이전트/템플릿 사용법
+  - 일일 운영 루틴
+  - 품질 체크리스트
+  - 레거시 `.claude` 정책
+  - 빠른 트러블슈팅
 - Codex 통합 가이드: `/Users/peterkim/SynologyDrive/OneDrive/Project/[Vibe Codding]/codex-code-infrastructure-showcase/CODEX_INTEGRATION_GUIDE.md`
 - 마이그레이션 계획서: `/Users/peterkim/SynologyDrive/OneDrive/Project/[Vibe Codding]/codex-code-infrastructure-showcase/migration-plan-claude-to-codex.md`
 - 요약 문서: `/Users/peterkim/SynologyDrive/OneDrive/Project/[Vibe Codding]/codex-code-infrastructure-showcase/summary.md`
@@ -36,4 +43,3 @@ Codex 중심으로 재구성한 AI 코딩 인프라 레퍼런스 저장소입니
 
 ## License
 MIT (`/Users/peterkim/SynologyDrive/OneDrive/Project/[Vibe Codding]/codex-code-infrastructure-showcase/LICENSE`)
-
